@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **anything and everything.**
 
-- 💬 Ask me about **Linguistics**
+- 💬 Ask me about **Linguistics.**
 
 - 📫 How to reach me **jordanlingao@gmail.com**
 
