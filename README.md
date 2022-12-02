@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jordan Lingao</h1>
+<h3 align="center">A Data Scientist excited to learn and improve my skills</h3>
 
-My name is Jordan Lingao and my pronouns are she/her. I am currently a student at BloomTech, studying Data Science. My interest in Data Science stems from a Computational Linguistics class that I took for my Linguistics major in college. There, I was first exposed to Natural Language Processing and Machine Learning and I am looking forward to doing more with these exciting topics.
+- 🌱 I’m currently learning **Data Science @ BloomTech.**
+
+- 👯 I’m looking to collaborate on **anything and everything.**
+
+- 💬 Ask me about **Linguistics**
+
+- 📫 How to reach me **jordanlingao@gmail.com**
+
+- ⚡ Fun fact **In college, I was a Music major and now I am going into something completely different: Data Science.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jordanlingao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanlingao" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
