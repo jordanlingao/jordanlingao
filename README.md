@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jordanlingao@gmail.com**
 
-- ⚡ Fun fact **In college, I was a Music major and now I am going into something completely different: Data Science.**
+- ⚡ Fun fact: **In college, I was a Music major and now I am going into something completely different: Data Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
