@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Lingao</h1>
 <h3 align="center">A Data Scientist excited to learn and improve my skills</h3>
 
-- 🌱 I’m currently learning about **geospatial data**
-
-- 👯 I’m looking to collaborate on **anything and everything.**
-
 - 📫 How to reach me **jordanlingao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
